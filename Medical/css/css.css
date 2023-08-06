@@ -1,0 +1,317 @@
+
+.o{background-image:url('..//images/taskimg.jpg');
+	height:500px;
+width: 1320px;
+margin-left: 50px;
+background-repeat:no-repeat;
+position: absolute;
+margin-left:88px;
+}
+.a{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%, -50%);
+	font-size:50px;
+	color: aliceblue;
+}
+.s{
+	font-size:20px;
+	color: black;
+	text-align: justify-all ;
+}
+
+.b{background-color:lightslategray;
+	
+	color:white;
+	height:28px;
+	width:90px;
+	;
+
+}
+.f{
+	color:lightblue;
+
+}
+.d{
+	color: lightblue;
+}
+.main{
+	height:300px;
+	width:800px;
+
+	margin-top:420px;
+	margin-left:340px;
+	position: relative;
+}
+.new{
+	height:300px;
+	width:267px;
+	background-color:lightgrey;
+	float: left;
+}
+.old{height:300px;
+	width:267px;
+	background-color:lightslategray;
+	float: left;
+}
+.max{height:300px;
+	width:266px;
+	background-color:dimgray;
+	float:right;
+}
+.we{
+	color: black;
+	font-size:20px;
+	text-align: justify-all;
+	text-align: center;
+}
+.ab{color:black;
+}
+
+.te{height:500px;
+	width:950px;
+
+	margin-left:280px;
+
+}
+.er{
+	height:500px;
+	width:485px;
+	float: left;
+
+}
+.ass{height:167px;
+	width:485px;
+
+}
+.ser{height:167px;
+	width:485px;
+}
+.waq{
+	height:160px;
+	width:485px;
+	position: relative;
+
+}
+.tit{float:right;
+	padding-right:130px;
+	color:black;
+	
+}
+.def{
+	font-size:25px;
+	color:brown;
+}
+.bit{float:right;
+	padding-right:130px;
+	color:black;
+
+}
+.ref{font-size:25px;
+	color:brown;
+
+}
+.bot{float:right;
+	padding-right:130px;
+	color:black;
+
+}
+.rot{font-size:25px;
+	color:brown;
+
+}
+.out{
+	height:500px;
+	width:458px;
+float:right;
+background-image:url('..//images/seed.jpg');
+background-size:cover;
+}
+
+
+
+
+.mod{
+	
+	height:500px;
+	width:1150px;
+	background-color:slategray;
+	margin-left: 90px;
+
+
+}
+.one{color:white;
+	font-family:cursive;
+
+
+}
+.jam{
+	color:white;
+	font-size:30px;
+ text-align: justify;
+ text-align: center;
+}
+.mod{height:500px;
+	width:950px;
+}
+
+.bol{
+	height:250px;
+	width:950px;
+}
+.rep{text-align: center;
+	color:white;
+	font-size:50px;
+}
+.gor{
+	height:250px;
+	width:950px;
+	background-color: yellow;
+}
+.ded{height:250px;
+	width:238px;
+	background-color:slategray;
+	float:left;
+
+}
+.wed{height:250px;
+	width:238px;
+	background-color:slategray;
+	float:left;}
+
+
+	.rod{height:250px;
+	width:238px;
+	background-color:slategray;
+	float:left;
+
+	}
+.frod{
+	height:250px;
+	width:235px;
+	background-color:slategray;
+	float:left;
+}
+
+
+.kim{color: white;
+	padding-left: 20px;
+}
+.kam{color: white;
+	padding-left: 20px;
+}
+.kem{color: white;
+	padding-left: 35px;
+	padding-top: 20px;
+	padding-bottom:35px;
+}
+.try{color: white;
+	padding-left: 10px;
+	padding-top:30px;
+}
+.don{
+	height:500px;
+	width:950px;
+	margin-left:90px;
+}
+.ron{height:500px;
+	width:475px;
+	background-image: url('..//images/ramp.jpg');
+	background-size: cover;
+	float:left;
+}
+.respo{
+	height:500px;
+	width: 475px;
+	float:left;
+}
+.ant{
+	text-align: justify;
+	color:black;
+	background-color: aliceblue;
+	font-size: 22px;
+}
+.no{height:1000px;
+	width:1350px;
+	background-color: slategray;
+	margin-left: 50px;
+}
+
+.noke{
+	height:400px;
+	width:1350px;
+	background-color:gray;
+}
+.none{color:black;
+	font-size: 20px;
+text-align: justify;
+}
+.mode{height:600px;
+	width:1350px;
+background-color: yellow;
+}
+.pan{height:600px;
+	width:450px;
+	background-color: hotpink;
+	float: left;
+	background-image: url('..//images/child-care.jpg');
+background-size: cover;
+
+}
+.ran{height:600px;
+	width:450px;
+	background-color:green;
+	float: left;
+	background-image:url('..//images/babycare.jpg');
+background-size: cover;
+}
+
+.tan{height:600px;
+	width:450px;
+	background-color:blue;
+float: left;
+background-image: url('..//images/dentalcare.jpg');
+background-size: cover;
+}
+.sop{
+	font-size: 35px;
+}
+.odd{
+	height: 1000px;
+	width:1350px;
+	background-image:url('..//images/globalpre.jpg');
+	background-size: cover;
+	margin-left: 50px;
+}
+.kong{
+	height: 1000px;
+	width: 1300px;
+	background-image: url('..//images/special.jpg');
+	background-size: cover;
+	margin-left: 100px;
+}
+.deas{font-size: 50px;
+	color:black;
+}
+.last{
+	height:1500px;
+	width: 1500px;
+	background-image:url('..//images/get in touch.jpg');
+	background-size: cover;
+}
+.der{
+	background-color:slategray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
